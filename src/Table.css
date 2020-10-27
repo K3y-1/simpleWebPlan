@@ -1,0 +1,25 @@
+table, th, td{
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+
+th, td{
+  font-size: 1.1rem;
+  padding: 10px;
+  height: 40px;
+  width: 150px;
+}
+
+table{
+  background: -moz-linear-gradient(left, rgb(50, 0, 0) 150px, rgb(0, 0, 50));
+}
+
+th{
+  font-size: 1.2rem;
+  color: pink;
+  background-color: rgb(20, 10, 10);
+}
+
+table, th{
+  border: 3px solid teal;
+}
